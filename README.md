@@ -82,6 +82,33 @@
 
 ---
 
+### ✅ DevOps Certification  
+🔗 [Verify Certificate](https://www.clouddevopshub.com/verify-certificate?serialno=NGX0K8V7)
+
+---
+
+### ✅ Linux Administration for DevOps  
+🔗 [Verify Certificate](https://www.clouddevopshub.com/verify-certificate?serialno=D1BJECEI)
+
+---
+
+### ✅ Ansible and Terraform Weekend Bootcamp  
+🔗 [Verify Certificate](https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6)
+
+---
+
+### ✅ JavaScript Challenge  
+🔗 [Verify Certificate](https://verified.sertifier.com/en/verify/63478574921667/)
+
+---
+
+### ✅ JavaScript Fundamentals  
+<a target="_blank" href="https://verified.sertifier.com/en/verify/88732043667561/">
+  <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/88732043667561.png" width="300" alt="JavaScript Fundamentals Certificate"/>
+</a>
+
+---
+
 ## 📫 Connect with Me
 
 - 🌐 [wizardcloud.io](https://wizardcloud.io)
