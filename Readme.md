@@ -166,7 +166,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="80%">
       <strong>📦 Ansible for Beginners</strong><br/>
       <a href="https://github.com/WizardBrew/Ansible4Beginners">github.com/WizardBrew/Ansible4Beginners</a><br/>
       <img src="https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=flat-square"/>
