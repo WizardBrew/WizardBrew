@@ -26,12 +26,12 @@
 
 ## 🚀 Projects
 
-### 🧙 WizardCloud Pi Backup Stack
-> Modular pipeline for imaging, compressing, and validating Raspberry Pi disks.
-
-- ✅ Streamed 119 GiB SD card image to Windows share with integrity checks
-- 🧼 Clean CLI workflow using partclone, gzip, and fsfreeze
-- 📄 Markdown snippets for every step — branded and reproducible
+### 🧙 WizardCloud Deploy & Backup Stack
+> Modular pipeline for imaging, Docker Imges, Builds compressing, and validating Raspberry Pi disks.
+- Using Terraform Created 20 Services in AWS. 
+- 🐳 Docker Automation using Jenkins & Ansible
+- 🐳 Deployed Multiple sites in Docker and hosted through Nginx
+- 📄 Markdown snippets for every step — branded 
 
 ### 🌐 Nginx Proxy Manager Deployment
 > Public-facing Docker stack with MariaDB backend and static IPs.
