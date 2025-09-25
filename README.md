@@ -58,25 +58,22 @@
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="80"/><br/>
       <strong>Docker</strong>
     </td>
- <td align="center">
-  <a href="https://www.clouddevopshub.com/verify-certificate?serialno=NGX0K8V7" target="_blank">
-    <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Kubernetes.svg" width="80"/><br/>
-    <strong>Kubernetes</strong>
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://www.clouddevopshub.com/verify-certificate?serialno=D1BJECEI" target="_blank">
-    <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Linux.svg" width="80"/><br/>
-    <strong>Linux</strong>
-  </a>
-</td>
+    <td align="center">
+      <a href="https://www.clouddevopshub.com/verify-certificate?serialno=NGX0K8V7" target="_blank">
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Kubernetes.svg" width="80"/><br/>
+        <strong>Kubernetes</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.clouddevopshub.com/verify-certificate?serialno=D1BJECEI" target="_blank">
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Linux.svg" width="80"/><br/>
+        <strong>Linux</strong>
+      </a>
+    </td>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Nginx-Logo.svg" width="80"/><br/>
       <strong>Nginx</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Bash.svg" width="80"/><br/>
       <strong>Bash</strong>
@@ -85,6 +82,8 @@
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Python.svg" width="80"/><br/>
       <strong>Python</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/C++.svg" width="80"/><br/>
       <strong>C++</strong>
@@ -93,8 +92,6 @@
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/React.svg" width="80"/><br/>
       <strong>React</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/MongoDB-Logo.svg" width="80"/><br/>
       <strong>MongoDB</strong>
@@ -112,40 +109,39 @@
       <strong>GCP Compute</strong>
     </td>
   </tr>
-  
   <tr>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/RaspberryPi.svg" width="80"/><br/>
       <strong>Raspberry Pi</strong>
     </td>
-    
-<td align="center">
-  <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
-    <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Terraform_Logo.svg" width="80"/><br/>
-    <strong>Terraform</strong>
-  </a>
-</td>
-<td align="center">
-  <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
-    <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Ansible_logo.svg" width="80"/><br/>
-    <strong>Ansible</strong>
-  </a>
-</td>
-    
-     <td align="center">
-    <a href="https://verified.sertifier.com/en/verify/88732043667561/" target="_blank">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS.svg" width="80"/><br/>
-      <strong>JavaScript Fundamentals</strong>
-    </a>
-  </td>
-     <td align="center">
-    <a href="https://verified.sertifier.com/en/verify/63478574921667/" target="_blank">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS%20Quiz.svg" width="80"/><br/>
-      <strong>JavaScript Challenge</strong>
-    </a>
-  </td>
+    <td align="center">
+      <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Terraform_Logo.svg" width="80"/><br/>
+        <strong>Terraform</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Ansible_logo.svg" width="80"/><br/>
+        <strong>Ansible</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://verified.sertifier.com/en/verify/88732043667561/" target="_blank">
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS.svg" width="80"/><br/>
+        <strong>JavaScript Fundamentals</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://verified.sertifier.com/en/verify/63478574921667/" target="_blank">
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS%20Quiz.svg" width="80"/><br/>
+        <strong>JavaScript Challenge</strong>
+      </a>
+    </td>
+    <td></td>
   </tr>
 </table>
+
 
 
 
