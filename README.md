@@ -53,6 +53,32 @@
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 
+---
+
+## 🏅 Certifications
+
+### ✅ Oracle Cloud Infrastructure 2025 Certified Foundations Associate  
+[![Oracle Badge](https://catalog-education.oracle.com/ords/certview/filebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3)
+
+---
+
+### ✅ Cisco Certified Network Associate (CCNA)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cisco_logo_blue_2016.svg/320px-Cisco_logo_blue_2016.svg.png" width="120" alt="Cisco Logo"/>
+
+---
+
+### ✅ Microsoft Certified: Azure Fundamentals  
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-azure-fundamentals.svg" width="120" alt="Azure Fundamentals Badge"/>
+
+---
+
+### ✅ Google Cloud Digital Leader  
+<img src="https://cloud.google.com/images/certification/cloud-digital-leader-certificate.png" width="120" alt="GCP Digital Leader Badge"/>
+
+---
+
+### ✅ AWS Certified Cloud Practitioner  
+<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Cloud-Practitioner_512x512.4a3d7f9f8f2c4c5c9b7b7c9f8f2c4c5c.png" width="120" alt="AWS Cloud Practitioner Badge"/>
 
 ---
 
@@ -60,4 +86,4 @@
 
 - 🌐 [wizardcloud.io](https://wizardcloud.io)
 - 🐙 [github.com/WizardBrew](https://github.com/WizardBrew)
-- ✉️ wizardbrew@outlook.com
+- ✉️ parvez@wizardcloud.io
