@@ -57,10 +57,29 @@
 
 ### 🧙 WizardCloud Deploy & Backup Stack
 > Modular pipeline for imaging, Docker Imges, Builds compressing, and validating Raspberry Pi disks.
-- Using Terraform Created 20 Services in AWS. 
-- 🐳 Docker Automation using Jenkins & Ansible
-- 🐳 Deployed Multiple sites in Docker and hosted through Nginx
-- 📄 Markdown snippets for every step — branded 
+- ⚡️ [Terraform](https://www.terraform.io/) created **20+ services** in [AWS](https://aws.amazon.com/)
+  ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+
+- 🐳 Docker automation using [Jenkins](https://www.jenkins.io/) & [Ansible](https://www.ansible.com/)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
+  ![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=flat-square)
+
+- 🌐 Deployed multiple sites in Docker and hosted via [Nginx](https://nginx.org/)
+  ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+
+- 🐍 Python for DevOps using [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+  ![Boto3](https://img.shields.io/badge/-Boto3-FF9900?logo=amazon-aws&logoColor=white&style=flat-square)
+
+- 📝 Markdown snippets for every step — branded and reproducible
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
+
+- 📊 Monitoring with [Splunk](https://www.splunk.com/) and [Grafana](https://grafana.com/)
+  ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat-square)
+  ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
+
 
 ### 🌐 Nginx Proxy Manager Deployment
 > Public-facing Docker stack with MariaDB backend and static IPs.
