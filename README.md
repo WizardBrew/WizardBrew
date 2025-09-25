@@ -101,8 +101,9 @@
       <br/><strong>AWS</strong>
     </td>
     <td align="center">
-      <img src="https://catalog-education.oracle.com/ords/certview/filebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3" width="80"/><br/>
-      <strong>Oracle Cloud</strong>
+      <a href="https://catalog-education.oracle.com/ords/certview/filebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3" width="90"/>
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Oracle.svg" width="90"/><br/>
+        <strong>Oracle Cloud</strong>
     </td>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="90"/><br/>
