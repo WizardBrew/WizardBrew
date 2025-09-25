@@ -1,15 +1,15 @@
 <table>
   <tr>
     <td width="120">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/WizardCloud_Logo.svg" width="100" alt="WizardCloud Logo"/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/WizardCloud-Logo.png" width="120" alt="WizardCloud Logo"/>
     </td>
     <td>
       <h2>Parvez Mustak</h2>
       <p>
-        🧙 Creator of <strong>WizardCloud</strong> — modular infrastructure, branded documentation, and resilient backup pipelines.<br/>
-        🔧 Specializing in Docker orchestration, Terraform provisioning, and cloud-native DevOps workflows.<br/>
-        🎨 Passionate about visual polish, ethical asset management, and reproducible infrastructure.<br/>
-        🌐 <a href="https://wizardcloud.io" target="_blank">wizardcloud.io</a> | 🐙 <a href="https://github.com/WizardBrew" target="_blank">GitHub</a> | ✉️ wizardbrew@outlook.com
+        🧙 Creator of <strong>WizardCloud</strong> — Server Infrastructure Architect<br/>
+        🔧 Specializing in Docker & Kuberneties , Terraform provisioning, and cloud-native DevOps workflows.<br/>
+        🎨 Passionate about Technologies, ethical asset management, and  infrastructure.<br/>
+        🌐 <a href="https://parvez.devopsengineer.in" target="_blank">wizard Website</a>  |  🐙 <a href="https://github.com/WizardBrew" target="_blank">GitHub</a> | ✉️ wizardbrew@outlook.com
       </p>
     </td>
   </tr>
