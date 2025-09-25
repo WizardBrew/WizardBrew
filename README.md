@@ -118,10 +118,7 @@
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/RaspberryPi.svg" width="80"/><br/>
       <strong>Raspberry Pi</strong>
     </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/WhatsApp.svg" width="80"/><br/>
-      <strong>WhatsApp API</strong>
-    </td>
+    
      <td align="center">
     <a href="https://verified.sertifier.com/en/verify/88732043667561/" target="_blank">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS.svg" width="80"/><br/>
