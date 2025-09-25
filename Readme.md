@@ -1,8 +1,6 @@
 <table>
   <tr>
-    <td width="250">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/wizardcloud-logo.png" width="220" alt="WizardCloud Logo"/>
-    </td>
+   
     <td>
       <h2>Parvez Mustak</h2>
       <p>
@@ -11,6 +9,9 @@
         🎨 Passionate about Technologies, ethical asset management, and  infrastructure.<br/>
         🌐 <a href="https://parvez.devopsengineer.in" target="_blank">wizard Website</a>  |  🐙 <a href="https://github.com/WizardBrew" target="_blank">GitHub</a> | ✉️ wizardbrew@outlook.com
       </p>
+    </td>
+     <td width="250">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/wizardcloud-logo.png" width="220" alt="WizardCloud Logo"/>
     </td>
   </tr>
 </table>
