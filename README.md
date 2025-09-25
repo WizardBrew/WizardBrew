@@ -128,7 +128,7 @@
 <td align="center">
   <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
     <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Ansible_Logo.svg" width="80"/><br/>
-    <strong>Ansible & Terraform</strong>
+    <strong>Ansible</strong>
   </a>
 </td>
     
