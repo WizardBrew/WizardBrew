@@ -48,62 +48,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3" target="_blank">
-        <img src="https://catalog-education.oracle.com/ords/certview/filebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3" width="100"/><br/>
-        Oracle Cloud Foundations
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cisco_logo_blue_2016.svg/320px-Cisco_logo_blue_2016.svg.png" width="100"/><br/>
-      CCNA
-    </td>
-    <td align="center">
-      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-azure-fundamentals.svg" width="100"/><br/>
-      Azure Fundamentals
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cloud.google.com/images/certification/cloud-digital-leader-certificate.png" width="100"/><br/>
-      GCP Digital Leader
-    </td>
-    <td align="center">
-      <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Cloud-Practitioner_512x512.4a3d7f9f8f2c4c5c9b7b7c9f8f2c4c5c.png" width="100"/><br/>
-      AWS Cloud Practitioner
-    </td>
-    <td align="center">
-      <a href="https://www.clouddevopshub.com/verify-certificate?serialno=NGX0K8V7" target="_blank">
-        <img src="https://copilot.microsoft.com/th/id/BCO.57b1969f-4225-4d8d-8ff2-6b066e982f10.png" width="100"/><br/>
-        DevOps
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.clouddevopshub.com/verify-certificate?serialno=D1BJECEI" target="_blank">
-        <img src="https://copilot.microsoft.com/th/id/BCO.57b1969f-4225-4d8d-8ff2-6b066e982f10.png" width="100"/><br/>
-        Linux Admin for DevOps
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
-        <img src="https://copilot.microsoft.com/th/id/BCO.57b1969f-4225-4d8d-8ff2-6b066e982f10.png" width="100"/><br/>
-        Ansible & Terraform
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://verified.sertifier.com/en/verify/88732043667561/" target="_blank">
-        <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/88732043667561.png" width="100"/><br/>
-        JavaScript Fundamentals
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-<table>
-  <tr>
-    <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="80"/><br/>
       <strong>Docker</strong>
     </td>
@@ -115,11 +59,37 @@
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Kubernetes.svg" width="80"/><br/>
       <strong>Kubernetes</strong>
     </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Nginx-Logo.svg" width="80"/><br/>
+      <strong>Nginx</strong>
+    </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Bash.svg" width="80"/><br/>
       <strong>Bash</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Python.svg" width="80"/><br/>
+      <strong>Python</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/C++.svg" width="80"/><br/>
+      <strong>C++</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/React.svg" width="80"/><br/>
+      <strong>React</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/MongoDB-Logo.svg" width="80"/><br/>
+      <strong>MongoDB</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/GitHub-Logo.svg" width="80"/><br/>
+      <strong>GitHub</strong>
     </td>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Microsoft_Azure.svg" width="80"/><br/>
@@ -130,7 +100,20 @@
       <strong>GCP Compute</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/RaspberryPi.svg" width="80"/><br/>
+      <strong>Raspberry Pi</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/WhatsApp.svg" width="80"/><br/>
+      <strong>WhatsApp API</strong>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
+
 
 
 
