@@ -37,12 +37,38 @@
 ---
 
 ## 🧩 Professional Skillset
--   Linux and Windows Server Infrastructre with Cloud AWS | GCP | Azure | Oracle.
--   Administartion services such as EC2, S3, VPC - Infra Terraform
--   Programming Languages in C++, JS - React, Python
--   DevOps Tools:  Kubernetes, Docker, Jenkins CI/CD, Ansible
--   Scripting: Bash and YAML
--   🐳 Docker orchestration with static IPs, custom bridge networks, and modular volumes
+-  - 🖥️ Linux & Windows Server Infrastructure across:
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+  ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
+  ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat-square)
+
+- ⚙️ Administration services: EC2, S3, VPC — provisioned via:
+  ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square)
+
+- 💻 Programming Languages:
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+
+- 🛠️ DevOps Tools:
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
+  ![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=flat-square)
+
+- 📜 Scripting:
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
+  ![YAML](https://img.shields.io/badge/-YAML-C9C9C9?logo=yaml&logoColor=black&style=flat-square)
+
+- 🐳 Docker orchestration:
+  - Static IPs
+  - Custom bridge networks
+  - Modular volumes
+  ![Docker Network](https://img.shields.io/badge/-Docker%20Networking-2496ED?logo=docker&logoColor=white&style=flat-square)
+
+
 
 ## 🧩 Core Skills
 - 🐧 Linux & Windows administration
