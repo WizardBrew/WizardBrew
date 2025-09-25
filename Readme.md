@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="250">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/wizardcloud-logo.png" width="180" alt="WizardCloud Logo"/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/wizardcloud-logo.png" width="220" alt="WizardCloud Logo"/>
     </td>
     <td>
       <h2>Parvez Mustak</h2>
