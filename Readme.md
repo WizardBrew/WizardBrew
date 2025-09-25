@@ -169,40 +169,52 @@
     <td valign="top" width="50%">
       <strong>📦 Ansible for Beginners</strong><br/>
       <a href="https://github.com/WizardBrew/Ansible4Beginners">github.com/WizardBrew/Ansible4Beginners</a><br/>
-      <img src="https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=flat-square"/><br/><br/>
-
-      <strong>🔧 Git CMD: Beginner to Advanced</strong><br/>
-      <a href="https://github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced">github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced</a><br/>
-      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square"/><br/><br/>
-
-      <strong>🖥️ SMB Setup Guide</strong><br/>
-      <a href="https://github.com/WizardBrew/smb-setup-guide">github.com/WizardBrew/smb-setup-guide</a><br/>
-      <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square"/><br/><br/>
-
-      <strong>🌐 Nginx Proxy Manager Setup</strong><br/>
-      <a href="https://github.com/WizardBrew/nginx-stack">github.com/WizardBrew/nginx-stack</a><br/>
-      <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=flat-square"/>
     </td>
-
     <td valign="top" width="50%">
       <strong>🐧 Linux Command Sheet</strong><br/>
       <a href="https://github.com/WizardBrew/LinuxCommandsheet?tab=readme-ov-file">github.com/WizardBrew/LinuxCommandsheet</a><br/>
-      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square"/><br/><br/>
-
+      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🔧 Git CMD: Beginner to Advanced</strong><br/>
+      <a href="https://github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced">github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced</a><br/>
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square"/>
+    </td>
+    <td valign="top">
       <strong>☸️ Kubernetes Beginner’s Guide</strong><br/>
       <a href="https://github.com/WizardBrew/Kuberneties4beginnersGuide">github.com/WizardBrew/Kuberneties4beginnersGuide</a><br/>
-      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square"/><br/><br/>
-
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🖥️ SMB Setup Guide</strong><br/>
+      <a href="https://github.com/WizardBrew/smb-setup-guide">github.com/WizardBrew/smb-setup-guide</a><br/>
+      <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square"/>
+    </td>
+    <td valign="top">
       <strong>🧙 Backup Workflow</strong><br/>
       <a href="https://github.com/WizardBrew/backup-docs">github.com/WizardBrew/backup-docs</a><br/>
-      <img src="https://img.shields.io/badge/-Backup%20Docs-6A5ACD?logo=veritas&logoColor=white&style=flat-square"/><br/><br/>
-
+      <img src="https://img.shields.io/badge/-Backup%20Docs-6A5ACD?logo=veritas&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🌐 Nginx Proxy Manager Setup</strong><br/>
+      <a href="https://github.com/WizardBrew/nginx-stack">github.com/WizardBrew/nginx-stack</a><br/>
+      <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square"/>
+    </td>
+    <td valign="top">
       <strong>🎨 WizardCloud Branding Snippets</strong><br/>
       <a href="https://github.com/WizardBrew/wizardcloud-branding">github.com/WizardBrew/wizardcloud-branding</a><br/>
-      <img src="https://img.shields.io/badge/-Branding-000000?logo=markdown&logoColor=white&style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/-Branding-000000?logo=markdown&logoColor=white&style=flat-square"/>
     </td>
   </tr>
 </table>
+
 
 
 
