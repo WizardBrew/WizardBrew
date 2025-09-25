@@ -43,18 +43,6 @@
 
 ---
 
-## 🛠 Tools I Love
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-
----
-
 ## 🏅 Certifications
 
 <table>
@@ -85,7 +73,7 @@
     </td>
     <td align="center">
       <a href="https://www.clouddevopshub.com/verify-certificate?serialno=NGX0K8V7" target="_blank">
-        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/certificate-icon.png" width="100"/><br/>
+        <img src="https://copilot.microsoft.com/th/id/BCO.57b1969f-4225-4d8d-8ff2-6b066e982f10.png" width="100"/><br/>
         DevOps
       </a>
     </td>
@@ -93,13 +81,13 @@
   <tr>
     <td align="center">
       <a href="https://www.clouddevopshub.com/verify-certificate?serialno=D1BJECEI" target="_blank">
-        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/certificate-icon.png" width="100"/><br/>
+        <img src="https://copilot.microsoft.com/th/id/BCO.57b1969f-4225-4d8d-8ff2-6b066e982f10.png" width="100"/><br/>
         Linux Admin for DevOps
       </a>
     </td>
     <td align="center">
       <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
-        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/certificate-icon.png" width="100"/><br/>
+        <img src="https://copilot.microsoft.com/th/id/BCO.57b1969f-4225-4d8d-8ff2-6b066e982f10.png" width="100"/><br/>
         Ansible & Terraform
       </a>
     </td>
@@ -112,6 +100,18 @@
   </tr>
 </table>
 
+
+---
+
+## 🛠 Tools I Love
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 
 ---
 
