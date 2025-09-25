@@ -166,7 +166,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="80%">
+    <td valign="top" width="100%">
       <strong>📦 Ansible for Beginners</strong><br/>
       <a href="https://github.com/WizardBrew/Ansible4Beginners">github.com/WizardBrew/Ansible4Beginners</a><br/>
       <img src="https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=flat-square"/>
@@ -196,7 +196,7 @@
       <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square"/>
     </td>
     <td valign="top">
-      <strong>🧙 Backup Workflow</strong><br/>
+      <strong>🧙 Backup Documentation</strong><br/>
       <a href="https://github.com/WizardBrew/backup-docs">github.com/WizardBrew/backup-docs</a><br/>
       <img src="https://img.shields.io/badge/-Backup%20Docs-6A5ACD?logo=veritas&logoColor=white&style=flat-square"/>
     </td>
@@ -208,8 +208,8 @@
       <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square"/>
     </td>
     <td valign="top">
-      <strong>🎨 WizardCloud Branding Snippets</strong><br/>
-      <a href="https://github.com/WizardBrew/wizardcloud-branding">github.com/WizardBrew/wizardcloud-branding</a><br/>
+      <strong>🎨 WizardCloud Website</strong><br/>
+      <a href="https://github.com/WizardBrew/wizardcloud-branding">github.com/WizardBrew/wizardcloud</a><br/>
       <img src="https://img.shields.io/badge/-Branding-000000?logo=markdown&logoColor=white&style=flat-square"/>
     </td>
   </tr>
