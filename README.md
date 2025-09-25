@@ -122,8 +122,18 @@
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/WhatsApp.svg" width="80"/><br/>
       <strong>WhatsApp API</strong>
     </td>
-    <td></td>
-    <td></td>
+     <td align="center">
+    <a href="https://verified.sertifier.com/en/verify/88732043667561/" target="_blank">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS.svg" width="80"/><br/>
+      <strong>JavaScript Fundamentals</strong>
+    </a>
+  </td>
+     <td align="center">
+    <a href="https://verified.sertifier.com/en/verify/63478574921667/" target="_blank">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS%20Quiz.svg" width="80"/><br/>
+      <strong>JavaScript Challenge</strong>
+    </a>
+  </td>
   </tr>
 </table>
 
