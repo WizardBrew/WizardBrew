@@ -1,3 +1,21 @@
+<table>
+  <tr>
+    <td width="120">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/WizardCloud_Logo.svg" width="100" alt="WizardCloud Logo"/>
+    </td>
+    <td>
+      <h2>Parvez Mustak</h2>
+      <p>
+        🧙 Creator of <strong>WizardCloud</strong> — modular infrastructure, branded documentation, and resilient backup pipelines.<br/>
+        🔧 Specializing in Docker orchestration, Terraform provisioning, and cloud-native DevOps workflows.<br/>
+        🎨 Passionate about visual polish, ethical asset management, and reproducible infrastructure.<br/>
+        🌐 <a href="https://wizardcloud.io" target="_blank">wizardcloud.io</a> | 🐙 <a href="https://github.com/WizardBrew" target="_blank">GitHub</a> | ✉️ wizardbrew@outlook.com
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 <div align="center">
   <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/wizardcloud-logo.png" width="120" alt="WizardCloud Logo"/>
   <h1>Parvez Mustak</h1>
