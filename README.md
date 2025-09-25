@@ -17,9 +17,9 @@
 
 ## 🧩 Core Skills
 - 🐧 Linux & Windows
-- 
-- 📦 Partition-aware backups streamed and compressed across platforms
-- 📜 Branded Markdown documentation for reproducible infrastructure
+- 🧱 Website, Domain, Hosting. & Load Balancers configurations.
+- 📦 Windows Active Directory.
+- 📜 Group Policies And Cloud Security Policies
 - 🔐 SSL & public domain deployment with Nginx Proxy Manager
 
 ---
@@ -165,7 +165,24 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![YAML](https://img.shields.io/badge/-YAML-C9C9C9?logo=yaml&logoColor=black&style=for-the-badge)
+![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
 
 ---
@@ -173,5 +190,12 @@
 ## 📫 Connect with Me
 
 - 🌐 [wizardcloud.io](https://wizardcloud.io)
-- 🐙 [github.com/WizardBrew](https://github.com/WizardBrew)
-- ✉️ parvez@wizardcloud.io
+- 🐙 [GitHub](https://github.com/WizardBrew)
+- ✉️ Email: wizardbrew@outlook.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/parvezmustak8004/)
+- 🐦 [Twitter](https://twitter.com/wizardbrew)
+- 🧑‍💻 [Dev.to](https://parvez.devopsengineer.in)
+- 💬 Discord: `WizardBrew#4556`
+
+---
+Spread Love.
