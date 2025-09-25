@@ -68,19 +68,16 @@
 - 👤 AWS IAM Users, Groups, and Roles
   ![AWS IAM](https://img.shields.io/badge/-AWS%20IAM-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
   - Fine-grained access control using IAM policies
-  - MFA enforcement and least privilege principles
   - Automated user provisioning via Terraform
 
 - 🔐 Azure AD Users & Role-Based Access Control (RBAC)
   ![Azure AD](https://img.shields.io/badge/-Azure%20AD-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
-  - Conditional Access & Identity Protection
   - Custom security groups and policy assignments
-  - Integration with Microsoft Defender & Sentinel
+  - Integration with Microsoft Defender
 
 - 📜 Security Policies & Compliance
   ![Compliance](https://img.shields.io/badge/-Cloud%20Security%20Policies-FF0000?logo=microsoft&logoColor=white&style=flat-square)
   - Group Policies for Windows AD
-  - Cloud-native security baselines (CIS, NIST)
   - Audit logging and policy enforcement via CloudTrail & Azure Monitor
 
 ---
