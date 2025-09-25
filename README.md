@@ -118,10 +118,20 @@
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/RaspberryPi.svg" width="80"/><br/>
       <strong>Raspberry Pi</strong>
     </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/WhatsApp.svg" width="80"/><br/>
-      <strong>WhatsApp API</strong>
-    </td>
+    
+  <td align="center">
+  <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
+    <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/WhatsApp.svg" width="80"/><br/>
+    <strong>Ansible & Terraform</strong>
+  </a>
+  <br/>
+  <sub>
+    Icon by <a href="//commons.wikimedia.org/wiki/User:Vulphere" title="User:Vulphere">Vulphere</a>, based on 
+    <a href="https://github.com/gilbarbara/logos/blob/master/logos/ansible.svg" target="_blank">Ansible.svg</a>, 
+    <a href="https://commons.wikimedia.org/w/index.php?curid=52280850" target="_blank">Public Domain</a>
+  </sub>
+</td>
+    
      <td align="center">
     <a href="https://verified.sertifier.com/en/verify/88732043667561/" target="_blank">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS.svg" width="80"/><br/>
