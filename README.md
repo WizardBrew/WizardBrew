@@ -100,6 +100,39 @@
   </tr>
 </table>
 
+---
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="80"/><br/>
+      <strong>Docker</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Linux.svg" width="80"/><br/>
+      <strong>Linux</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Kubernetes.svg" width="80"/><br/>
+      <strong>Kubernetes</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Bash.svg" width="80"/><br/>
+      <strong>Bash</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Microsoft_Azure.svg" width="80"/><br/>
+      <strong>Azure</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Google_Compute.svg" width="80"/><br/>
+      <strong>GCP Compute</strong>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -112,6 +145,15 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+
+## 🛠 Tools I Love
+
+<img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="80" alt="Docker Logo"/>
+<img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/C++.svg" width="80" alt="C++ Logo"/>
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-azure-fundamentals.svg" width="80" alt="Azure Badge"/>
+<img src="https://cloud.google.com/images/certification/cloud-digital-leader-certificate.png" width="80" alt="GCP Badge"/>
+<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Cloud-Practitioner_512x512.4a3d7f9f8f2c4c5c9b7b7c9f8f2c4c5c.png" width="80" alt="AWS Badge"/>
+
 
 ---
 
