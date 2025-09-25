@@ -164,14 +164,38 @@
 
 ## 📘 Documentation Highlights
 
--- 📦 [Ansible for Beginners](https://github.com/WizardBrew/Ansible4Beginners)
-- 🐧 [Linux Command Sheet](https://github.com/WizardBrew/LinuxCommandsheet?tab=readme-ov-file)
-- 🔧 [Git CMD: Beginner to Advanced](https://github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced)
-- ☸️ [Kubernetes Beginner’s Guide](https://github.com/WizardBrew/Kuberneties4beginnersGuide)
-- 🖥️ [SMB Setup Guide](https://github.com/WizardBrew/smb-setup-guide)
-- 🧙 [Backup Workflow](https://github.com/WizardBrew/backup-docs)
-- 🌐 [Nginx Proxy Manager Setup](https://github.com/WizardBrew/nginx-stack)
-- 🎨 [WizardCloud Branding Snippets](https://github.com/WizardBrew/wizardcloud-branding)
+- 📦 Ansible for Beginners  
+  ![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=flat-square)  
+  [github.com/WizardBrew/Ansible4Beginners](https://github.com/WizardBrew/Ansible4Beginners)
+
+- 🐧 Linux Command Sheet  
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)  
+  [github.com/WizardBrew/LinuxCommandsheet](https://github.com/WizardBrew/LinuxCommandsheet?tab=readme-ov-file)
+
+- 🔧 Git CMD: Beginner to Advanced  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
+  [github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced](https://github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced)
+
+- ☸️ Kubernetes Beginner’s Guide  
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)  
+  [github.com/WizardBrew/Kuberneties4beginnersGuide](https://github.com/WizardBrew/Kuberneties4beginnersGuide)
+
+- 🖥️ SMB Setup Guide  
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square)  
+  [github.com/WizardBrew/smb-setup-guide](https://github.com/WizardBrew/smb-setup-guide)
+
+- 🧙 Backup Workflow  
+  ![Backup](https://img.shields.io/badge/-Backup%20Docs-6A5ACD?logo=veritas&logoColor=white&style=flat-square)  
+  [github.com/WizardBrew/backup-docs](https://github.com/WizardBrew/backup-docs)
+
+- 🌐 Nginx Proxy Manager Setup  
+  ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)  
+  [github.com/WizardBrew/nginx-stack](https://github.com/WizardBrew/nginx-stack)
+
+- 🎨 WizardCloud Branding Snippets  
+  ![Markdown](https://img.shields.io/badge/-Branding-000000?logo=markdown&logoColor=white&style=flat-square)  
+  [github.com/WizardBrew/wizardcloud-branding](https://github.com/WizardBrew/wizardcloud-branding)
+
 
 
 
