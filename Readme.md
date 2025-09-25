@@ -164,38 +164,53 @@
 
 ## 📘 Documentation Highlights
 
-- 📦 Ansible for Beginners  
-  ![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=flat-square)  
-  [github.com/WizardBrew/Ansible4Beginners](https://github.com/WizardBrew/Ansible4Beginners)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p>📦 <strong>Ansible for Beginners</strong><br/>
+      <a href="https://github.com/WizardBrew/Ansible4Beginners">github.com/WizardBrew/Ansible4Beginners</a><br/>
+      <img src="https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=flat-square"/>
+      </p>
 
-- 🐧 Linux Command Sheet  
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)  
-  [github.com/WizardBrew/LinuxCommandsheet](https://github.com/WizardBrew/LinuxCommandsheet?tab=readme-ov-file)
+      <p>🔧 <strong>Git CMD: Beginner to Advanced</strong><br/>
+      <a href="https://github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced">github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced</a><br/>
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square"/>
+      </p>
 
-- 🔧 Git CMD: Beginner to Advanced  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
-  [github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced](https://github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced)
+      <p>🖥️ <strong>SMB Setup Guide</strong><br/>
+      <a href="https://github.com/WizardBrew/smb-setup-guide">github.com/WizardBrew/smb-setup-guide</a><br/>
+      <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square"/>
+      </p>
 
-- ☸️ Kubernetes Beginner’s Guide  
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)  
-  [github.com/WizardBrew/Kuberneties4beginnersGuide](https://github.com/WizardBrew/Kuberneties4beginnersGuide)
+      <p>🌐 <strong>Nginx Proxy Manager Setup</strong><br/>
+      <a href="https://github.com/WizardBrew/nginx-stack">github.com/WizardBrew/nginx-stack</a><br/>
+      <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square"/>
+      </p>
+    </td>
 
-- 🖥️ SMB Setup Guide  
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square)  
-  [github.com/WizardBrew/smb-setup-guide](https://github.com/WizardBrew/smb-setup-guide)
+    <td valign="top" width="50%">
+      <p>🐧 <strong>Linux Command Sheet</strong><br/>
+      <a href="https://github.com/WizardBrew/LinuxCommandsheet?tab=readme-ov-file">github.com/WizardBrew/LinuxCommandsheet</a><br/>
+      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square"/>
+      </p>
 
-- 🧙 Backup Workflow  
-  ![Backup](https://img.shields.io/badge/-Backup%20Docs-6A5ACD?logo=veritas&logoColor=white&style=flat-square)  
-  [github.com/WizardBrew/backup-docs](https://github.com/WizardBrew/backup-docs)
+      <p>☸️ <strong>Kubernetes Beginner’s Guide</strong><br/>
+      <a href="https://github.com/WizardBrew/Kuberneties4beginnersGuide">github.com/WizardBrew/Kuberneties4beginnersGuide</a><br/>
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square"/>
+      </p>
 
-- 🌐 Nginx Proxy Manager Setup  
-  ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)  
-  [github.com/WizardBrew/nginx-stack](https://github.com/WizardBrew/nginx-stack)
+      <p>🧙 <strong>Backup Workflow</strong><br/>
+      <a href="https://github.com/WizardBrew/backup-docs">github.com/WizardBrew/backup-docs</a><br/>
+      <img src="https://img.shields.io/badge/-Backup%20Docs-6A5ACD?logo=veritas&logoColor=white&style=flat-square"/>
+      </p>
 
-- 🎨 WizardCloud Branding Snippets  
-  ![Markdown](https://img.shields.io/badge/-Branding-000000?logo=markdown&logoColor=white&style=flat-square)  
-  [github.com/WizardBrew/wizardcloud-branding](https://github.com/WizardBrew/wizardcloud-branding)
-
+      <p>🎨 <strong>WizardCloud Branding Snippets</strong><br/>
+      <a href="https://github.com/WizardBrew/wizardcloud-branding">github.com/WizardBrew/wizardcloud-branding</a><br/>
+      <img src="https://img.shields.io/badge/-Branding-000000?logo=markdown&logoColor=white&style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
