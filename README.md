@@ -1,16 +1,23 @@
 <div align="center">
   <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/wizardcloud-logo.png" width="120" alt="WizardCloud Logo"/>
   <h1>Parvez Mustak</h1>
-  <p><strong>Modular Infrastructure Architect | Docker Whisperer | Backup Strategist</strong></p>
-  <p>Designing reproducible systems with branded documentation and pixel-perfect precision.</p>
+  <p><strong>Server Infrastructure Architect | Docker & Kuberneties | Backup Strategist</strong></p>
+  <p>Designing reproducible systems with branded documentation</p>
 </div>
 
 ---
 
-## 🧩 Core Skills
+## 🧩 Professional Skillset
+-   Linux and Windows Server Infrastructre with Cloud AWS | GCP | Azure | Oracle.
+-   Administartion services such as EC2, S3, VPC - Infra Terraform
+-   Programming Languages in C++, JS - React, Python
+-   DevOps Tools:  Kubernetes, Docker, Jenkins CI/CD, Ansible
+-   Scripting: Bash and YAML
+-   🐳 Docker orchestration with static IPs, custom bridge networks, and modular volumes
 
-- 🐧 Linux-first CLI workflows with partclone, fsfreeze, and disk imaging
-- 🐳 Docker orchestration with static IPs, custom bridge networks, and modular volumes
+## 🧩 Core Skills
+- 🐧 Linux & Windows
+- 
 - 📦 Partition-aware backups streamed and compressed across platforms
 - 📜 Branded Markdown documentation for reproducible infrastructure
 - 🔐 SSL & public domain deployment with Nginx Proxy Manager
@@ -51,14 +58,19 @@
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="80"/><br/>
       <strong>Docker</strong>
     </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Linux.svg" width="80"/><br/>
-      <strong>Linux</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Kubernetes.svg" width="80"/><br/>
-      <strong>Kubernetes</strong>
-    </td>
+ <td align="center">
+  <a href="https://www.clouddevopshub.com/verify-certificate?serialno=NGX0K8V7" target="_blank">
+    <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Kubernetes.svg" width="80"/><br/>
+    <strong>Kubernetes</strong>
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://www.clouddevopshub.com/verify-certificate?serialno=D1BJECEI" target="_blank">
+    <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Linux.svg" width="80"/><br/>
+    <strong>Linux</strong>
+  </a>
+</td>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Nginx-Logo.svg" width="80"/><br/>
       <strong>Nginx</strong>
@@ -100,6 +112,7 @@
       <strong>GCP Compute</strong>
     </td>
   </tr>
+  
   <tr>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/RaspberryPi.svg" width="80"/><br/>
