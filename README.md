@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WizardBrew/WizardBrew/assets/wizardcloud-logo.png" width="100" alt="WizardCloud Logo"/>
+  <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/wizardcloud-logo.png" width="120" alt="WizardCloud Logo"/>
   <h1>Parvez Mustak</h1>
   <p><strong>Modular Infrastructure Architect | Docker Whisperer | Backup Strategist</strong></p>
   <p>Designing reproducible systems with branded documentation and pixel-perfect precision.</p>
@@ -7,21 +7,20 @@
 
 ---
 
-## 🧩 What I Do Best
+## 🧩 Core Skills
 
-- 🐧 **Linux-first CLI workflows** with partclone, fsfreeze, and disk imaging
-- 🐳 **Docker orchestration** with static IPs, custom bridge networks, and modular volumes
-- 🧠 **Stepwise troubleshooting** — validating every config, mount, and permission
-- 📦 **Partition-aware backups** streamed and compressed across platforms
-- 📜 **Branded Markdown documentation** for reproducible infrastructure
-- 🔐 **SSL & public domain deployment** with Nginx Proxy Manager
+- 🐧 Linux-first CLI workflows with partclone, fsfreeze, and disk imaging
+- 🐳 Docker orchestration with static IPs, custom bridge networks, and modular volumes
+- 📦 Partition-aware backups streamed and compressed across platforms
+- 📜 Branded Markdown documentation for reproducible infrastructure
+- 🔐 SSL & public domain deployment with Nginx Proxy Manager
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🧙 WizardCloud Pi Backup Stack
-> A modular pipeline for imaging, compressing, and validating Raspberry Pi disks.
+> Modular pipeline for imaging, compressing, and validating Raspberry Pi disks.
 
 - ✅ Streamed 119 GiB SD card image to Windows share with integrity checks
 - 🧼 Clean CLI workflow using partclone, gzip, and fsfreeze
@@ -60,9 +59,3 @@
 - 🌐 [wizardcloud.io](https://wizardcloud.io)
 - 🐙 [github.com/WizardBrew](https://github.com/WizardBrew)
 - ✉️ parvez@wizardcloud.io
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/WizardBrew/WizardBrew/main/assets/wizard-banner.png" width="100%" alt="WizardCloud Banner"/>
-</div>
