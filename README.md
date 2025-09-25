@@ -49,8 +49,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge)
-![Partclone](https://img.shields.io/badge/-Partclone-4E4E4E?style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+
 
 ---
 
@@ -58,4 +60,4 @@
 
 - 🌐 [wizardcloud.io](https://wizardcloud.io)
 - 🐙 [github.com/WizardBrew](https://github.com/WizardBrew)
-- ✉️ parvez@wizardcloud.io
+- ✉️ wizardbrew@outlook.com
