@@ -2,7 +2,7 @@
   <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/wizardcloud-logo.png" width="120" alt="WizardCloud Logo"/>
   <h1>Parvez Mustak</h1>
   <p><strong>Server Infrastructure Architect | Docker & Kuberneties | Backup Strategist</strong></p>
-  <p>Designing reproducible systems with branded documentation</p>
+  <p>Infra & Automations using Docker</p>
 </div>
 
 ---
