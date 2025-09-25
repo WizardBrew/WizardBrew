@@ -45,11 +45,43 @@
 -   🐳 Docker orchestration with static IPs, custom bridge networks, and modular volumes
 
 ## 🧩 Core Skills
-- 🐧 Linux & Windows
-- 🧱 Website, Domain, Hosting. & Load Balancers configurations.
-- 📦 Windows Active Directory.
-- 📜 Group Policies And Cloud Security Policies
+- 🐧 Linux & Windows administration
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
+
+- 🧱 Website, Domain, Hosting & Load Balancer configurations
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square)
+  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+  ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+
+- 📦 Windows Active Directory
+  ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?logo=windows&logoColor=white&style=flat-square)
+
+- 📜 Group Policies & Cloud Security Policies
+  ![Security](https://img.shields.io/badge/-Security%20Policies-FF0000?logo=microsoft&logoColor=white&style=flat-square)
+  ![Azure](https://img.shields.io/badge/-Azure%20Security-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
+
 - 🔐 SSL & public domain deployment with Nginx Proxy Manager
+  ![SSL](https://img.shields.io/badge/-SSL%20Enabled-25C2A0?logo=letsencrypt&logoColor=white&style=flat-square)
+  ![Nginx Proxy Manager](https://img.shields.io/badge/-Nginx%20Proxy%20Manager-009639?logo=nginx&logoColor=white&style=flat-square)
+
+- 👤 AWS IAM Users, Groups, and Roles
+  ![AWS IAM](https://img.shields.io/badge/-AWS%20IAM-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+  - Fine-grained access control using IAM policies
+  - MFA enforcement and least privilege principles
+  - Automated user provisioning via Terraform
+
+- 🔐 Azure AD Users & Role-Based Access Control (RBAC)
+  ![Azure AD](https://img.shields.io/badge/-Azure%20AD-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
+  - Conditional Access & Identity Protection
+  - Custom security groups and policy assignments
+  - Integration with Microsoft Defender & Sentinel
+
+- 📜 Security Policies & Compliance
+  ![Compliance](https://img.shields.io/badge/-Cloud%20Security%20Policies-FF0000?logo=microsoft&logoColor=white&style=flat-square)
+  - Group Policies for Windows AD
+  - Cloud-native security baselines (CIS, NIST)
+  - Audit logging and policy enforcement via CloudTrail & Azure Monitor
 
 ---
 
@@ -73,7 +105,7 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
   ![Boto3](https://img.shields.io/badge/-Boto3-FF9900?logo=amazon-aws&logoColor=white&style=flat-square)
 
-- 📝 Markdown snippets for every step — branded and reproducible
+- 📝 Markdown snippets for every step — Representation of Documents.
   ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
 
 - 📊 Monitoring with [Splunk](https://www.splunk.com/) and [Grafana](https://grafana.com/)
