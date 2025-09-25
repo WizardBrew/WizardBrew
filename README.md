@@ -162,13 +162,6 @@
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 
-## 🛠 Tools I Love
-
-<img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="80" alt="Docker Logo"/>
-<img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/C++.svg" width="80" alt="C++ Logo"/>
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-azure-fundamentals.svg" width="80" alt="Azure Badge"/>
-<img src="https://cloud.google.com/images/certification/cloud-digital-leader-certificate.png" width="80" alt="GCP Badge"/>
-<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Cloud-Practitioner_512x512.4a3d7f9f8f2c4c5c9b7b7c9f8f2c4c5c.png" width="80" alt="AWS Badge"/>
 
 
 ---
