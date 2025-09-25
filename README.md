@@ -57,55 +57,61 @@
 
 ## 🏅 Certifications
 
-### ✅ Oracle Cloud Infrastructure 2025 Certified Foundations Associate  
-[![Oracle Badge](https://catalog-education.oracle.com/ords/certview/filebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3" target="_blank">
+        <img src="https://catalog-education.oracle.com/ords/certview/filebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3" width="100"/><br/>
+        Oracle Cloud Foundations
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cisco_logo_blue_2016.svg/320px-Cisco_logo_blue_2016.svg.png" width="100"/><br/>
+      CCNA
+    </td>
+    <td align="center">
+      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-azure-fundamentals.svg" width="100"/><br/>
+      Azure Fundamentals
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cloud.google.com/images/certification/cloud-digital-leader-certificate.png" width="100"/><br/>
+      GCP Digital Leader
+    </td>
+    <td align="center">
+      <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Cloud-Practitioner_512x512.4a3d7f9f8f2c4c5c9b7b7c9f8f2c4c5c.png" width="100"/><br/>
+      AWS Cloud Practitioner
+    </td>
+    <td align="center">
+      <a href="https://www.clouddevopshub.com/verify-certificate?serialno=NGX0K8V7" target="_blank">
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/certificate-icon.png" width="100"/><br/>
+        DevOps
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.clouddevopshub.com/verify-certificate?serialno=D1BJECEI" target="_blank">
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/certificate-icon.png" width="100"/><br/>
+        Linux Admin for DevOps
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/certificate-icon.png" width="100"/><br/>
+        Ansible & Terraform
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://verified.sertifier.com/en/verify/88732043667561/" target="_blank">
+        <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/88732043667561.png" width="100"/><br/>
+        JavaScript Fundamentals
+      </a>
+    </td>
+  </tr>
+</table>
 
----
-
-### ✅ Cisco Certified Network Associate (CCNA)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cisco_logo_blue_2016.svg/320px-Cisco_logo_blue_2016.svg.png" width="120" alt="Cisco Logo"/>
-
----
-
-### ✅ Microsoft Certified: Azure Fundamentals  
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-azure-fundamentals.svg" width="120" alt="Azure Fundamentals Badge"/>
-
----
-
-### ✅ Google Cloud Digital Leader  
-<img src="https://cloud.google.com/images/certification/cloud-digital-leader-certificate.png" width="120" alt="GCP Digital Leader Badge"/>
-
----
-
-### ✅ AWS Certified Cloud Practitioner  
-<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Cloud-Practitioner_512x512.4a3d7f9f8f2c4c5c9b7b7c9f8f2c4c5c.png" width="120" alt="AWS Cloud Practitioner Badge"/>
-
----
-
-### ✅ DevOps Certification  
-🔗 [Verify Certificate](https://www.clouddevopshub.com/verify-certificate?serialno=NGX0K8V7)
-
----
-
-### ✅ Linux Administration for DevOps  
-🔗 [Verify Certificate](https://www.clouddevopshub.com/verify-certificate?serialno=D1BJECEI)
-
----
-
-### ✅ Ansible and Terraform Weekend Bootcamp  
-🔗 [Verify Certificate](https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6)
-
----
-
-### ✅ JavaScript Challenge  
-🔗 [Verify Certificate](https://verified.sertifier.com/en/verify/63478574921667/)
-
----
-
-### ✅ JavaScript Fundamentals  
-<a target="_blank" href="https://verified.sertifier.com/en/verify/88732043667561/">
-  <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/88732043667561.png" width="300" alt="JavaScript Fundamentals Certificate"/>
-</a>
 
 ---
 
