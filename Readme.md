@@ -164,7 +164,7 @@
 
 ## 📘 Documentation Highlights
 
-- 📦 [Ansible for Beginners](https://github.com/WizardBrew/Ansible4Beginners)
+-- 📦 [Ansible for Beginners](https://github.com/WizardBrew/Ansible4Beginners)
 - 🐧 [Linux Command Sheet](https://github.com/WizardBrew/LinuxCommandsheet?tab=readme-ov-file)
 - 🔧 [Git CMD: Beginner to Advanced](https://github.com/WizardBrew/Git-cmd-for-beginners-to-Advanced)
 - ☸️ [Kubernetes Beginner’s Guide](https://github.com/WizardBrew/Kuberneties4beginnersGuide)
@@ -172,6 +172,7 @@
 - 🧙 [Backup Workflow](https://github.com/WizardBrew/backup-docs)
 - 🌐 [Nginx Proxy Manager Setup](https://github.com/WizardBrew/nginx-stack)
 - 🎨 [WizardCloud Branding Snippets](https://github.com/WizardBrew/wizardcloud-branding)
+
 
 
 ---
