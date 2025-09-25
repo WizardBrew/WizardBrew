@@ -56,55 +56,56 @@
   <tr>
     <td align="center">
       <a href="https://www.clouddevopshub.com/verify-certificate?serialno=NGX0K8V7" target="_blank">
-        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Kubernetes.svg" width="80"/><br/>
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Kubernetes.svg" width="90"/><br/>
         <strong>Kubernetes</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://www.clouddevopshub.com/verify-certificate?serialno=D1BJECEI" target="_blank">
-        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Linux.svg" width="80"/><br/>
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Linux.svg" width="90"/><br/>
         <strong>Linux</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
-        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Terraform_Logo.svg" width="80"/><br/>
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Terraform_Logo.svg" width="90"/><br/>
         <strong>Terraform</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
-        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Ansible_logo.svg" width="80"/><br/>
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Ansible_logo.svg" width="90"/><br/>
         <strong>Ansible</strong>
       </a>
     </td>
     <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Python.svg" width="80"/><br/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Python.svg" width="90"/><br/>
       <strong>Python</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/C++.svg" width="80"/><br/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/C++.svg" width="90"/><br/>
       <strong>C++</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Microsoft_Azure.svg" width="80"/><br/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Microsoft_Azure.svg" width="90"/><br/>
       <strong>Azure</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Google_Compute.svg" width="80"/><br/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Google_Compute.svg" width="90"/><br/>
       <strong>GCP</strong>
     </td>
     <td align="center">
-      <br/><strong>—</strong>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/AWS.svg" width="90"/><br/>
+      <br/><strong>AWS</strong>
     </td>
     <td align="center">
       <img src="https://catalog-education.oracle.com/ords/certview/filebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3" width="80"/><br/>
       <strong>Oracle Cloud</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="80"/><br/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="90"/><br/>
       <strong>Docker</strong>
     </td>
     <td align="center">
@@ -114,30 +115,30 @@
   <tr>
     <td align="center">
       <a href="https://verified.sertifier.com/en/verify/88732043667561/" target="_blank">
-        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS.svg" width="80"/><br/>
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS.svg" width="90"/><br/>
         <strong>JavaScript Fundamentals</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://verified.sertifier.com/en/verify/63478574921667/" target="_blank">
-        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS%20Quiz.svg" width="80"/><br/>
+        <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS%20Quiz.svg" width="90"/><br/>
         <strong>JavaScript Challenge</strong>
       </a>
     </td>
     <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/React.svg" width="80"/><br/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/React.svg" width="90"/><br/>
       <strong>ReactJS</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/GitHub-Logo.svg" width="80"/><br/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/GitHub-Logo.svg" width="90"/><br/>
       <strong>GitHub</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/MongoDB-Logo.svg" width="80"/><br/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/MongoDB-Logo.svg" width="90"/><br/>
       <strong>MongoDB</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/RaspberryPi.svg" width="80"/><br/>
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/RaspberryPi.svg" width="90"/><br/>
       <strong>Raspberry Pi</strong>
     </td>
   </tr>
