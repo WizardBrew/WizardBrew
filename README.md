@@ -52,12 +52,8 @@
 
 ## 🏅 Certifications
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="80"/><br/>
-      <strong>Docker</strong>
-    </td>
     <td align="center">
       <a href="https://www.clouddevopshub.com/verify-certificate?serialno=NGX0K8V7" target="_blank">
         <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Kubernetes.svg" width="80"/><br/>
@@ -69,50 +65,6 @@
         <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Linux.svg" width="80"/><br/>
         <strong>Linux</strong>
       </a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Nginx-Logo.svg" width="80"/><br/>
-      <strong>Nginx</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Bash.svg" width="80"/><br/>
-      <strong>Bash</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Python.svg" width="80"/><br/>
-      <strong>Python</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/C++.svg" width="80"/><br/>
-      <strong>C++</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/React.svg" width="80"/><br/>
-      <strong>React</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/MongoDB-Logo.svg" width="80"/><br/>
-      <strong>MongoDB</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/GitHub-Logo.svg" width="80"/><br/>
-      <strong>GitHub</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Microsoft_Azure.svg" width="80"/><br/>
-      <strong>Azure</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Google_Compute.svg" width="80"/><br/>
-      <strong>GCP Compute</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/RaspberryPi.svg" width="80"/><br/>
-      <strong>Raspberry Pi</strong>
     </td>
     <td align="center">
       <a href="https://www.clouddevopshub.com/verify-certificate?serialno=LS5ZYLZ6" target="_blank">
@@ -127,6 +79,40 @@
       </a>
     </td>
     <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Python.svg" width="80"/><br/>
+      <strong>Python</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/C++.svg" width="80"/><br/>
+      <strong>C++</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Microsoft_Azure.svg" width="80"/><br/>
+      <strong>Azure</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Google_Compute.svg" width="80"/><br/>
+      <strong>GCP</strong>
+    </td>
+    <td align="center">
+      <br/><strong>—</strong>
+    </td>
+    <td align="center">
+      <img src="https://catalog-education.oracle.com/ords/certview/filebadge?id=430C797B9E15740510C9B721534F331E0EF7CD16041C65B01F50CF1F744C8AB3" width="80"/><br/>
+      <strong>Oracle Cloud</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Docker.svg" width="80"/><br/>
+      <strong>Docker</strong>
+    </td>
+    <td align="center">
+      <br/><strong>—</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://verified.sertifier.com/en/verify/88732043667561/" target="_blank">
         <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/JS.svg" width="80"/><br/>
         <strong>JavaScript Fundamentals</strong>
@@ -138,7 +124,27 @@
         <strong>JavaScript Challenge</strong>
       </a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/React.svg" width="80"/><br/>
+      <strong>ReactJS</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/GitHub-Logo.svg" width="80"/><br/>
+      <strong>GitHub</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/MongoDB-Logo.svg" width="80"/><br/>
+      <strong>MongoDB</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/RaspberryPi.svg" width="80"/><br/>
+      <strong>Raspberry Pi</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center">
+      <em>Reserved for future certifications or tools 🧙‍♂️</em>
+    </td>
   </tr>
 </table>
 
