@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WizardBrew/WizardBrew/main/assets/wizardcloud-logo.png" width="100" alt="WizardCloud Logo"/>
+  <img src="https://raw.githubusercontent.com/WizardBrew/WizardBrew/assets/wizardcloud-logo.png" width="100" alt="WizardCloud Logo"/>
   <h1>Parvez Mustak</h1>
   <p><strong>Modular Infrastructure Architect | Docker Whisperer | Backup Strategist</strong></p>
   <p>Designing reproducible systems with branded documentation and pixel-perfect precision.</p>
