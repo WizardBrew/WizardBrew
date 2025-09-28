@@ -252,7 +252,7 @@
     </td>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/Python.svg" width="90"/><br/>
-      <strong>Python</strong>
+      <strong>Python for DevOps</strong>
     </td>
     <td align="center">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/C++.svg" width="90"/><br/>
