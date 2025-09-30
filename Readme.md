@@ -104,7 +104,7 @@
   ![Security](https://img.shields.io/badge/-Security%20Policies-FF0000?logo=microsoft&logoColor=white&style=flat-square)
   ![Azure](https://img.shields.io/badge/-Azure%20Security-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
 
-- 🔐 SSL & public domain deployment with Nginx Proxy Manager
+- 🔐 SSL & public domain deployment with Nginx Proxy Manager & Let's encrypt.
   ![SSL](https://img.shields.io/badge/-SSL%20Enabled-25C2A0?logo=letsencrypt&logoColor=white&style=flat-square)
   ![Nginx Proxy Manager](https://img.shields.io/badge/-Nginx%20Proxy%20Manager-009639?logo=nginx&logoColor=white&style=flat-square)
 
