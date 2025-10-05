@@ -4,7 +4,7 @@
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/wizardcloud-logo.png" width="220" alt="WizardCloud Logo"/>
     </td>
     <td>
-      <h2>Wizard</h2>
+      <h2>WizardBrew</h2>
       <p>
         🧙 Creator of <strong>WizardCloud</strong> — Server Infrastructure Architect<br/>
         🔧 Specializing in Docker & Kuberneties , Terraform provisioning, and cloud-native DevOps workflows.<br/>
