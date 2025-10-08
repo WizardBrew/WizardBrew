@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="280">
+    <td width="260">
       <img src="https://github.com/WizardBrew/WizardBrew/blob/main/assets/wizardcloud-logo.png" width="220" alt="WizardCloud Logo"/>
     </td>
     <td>
