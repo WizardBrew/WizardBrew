@@ -54,7 +54,7 @@
 ---
 
 ## 🧩 Professional Skillset
--  - 🖥️ Linux & Windows Server Infrastructure across:
+-  🖥️ Linux & Windows Server Infrastructure across:
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
   ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
