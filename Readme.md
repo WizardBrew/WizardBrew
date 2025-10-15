@@ -6,7 +6,7 @@
     <td>
       <h2>WizardBrew</h2>
       <p>
-        🧙 Creator of <strong>WizardCloud</strong> — Server Infrastructure Architect<br/>
+        🧙 Owner of <strong>WizardCloud</strong> — Server Infrastructure Architect<br/>
         🔧 Specializing in Docker & Kuberneties , Terraform provisioning, and cloud-native DevOps workflows.<br/>
         🎨 Passionate about Technologies, ethical asset management, and  infrastructure.<br/>
         🌐 <a href="https://parvez.devopsengineer.in" target="_blank">wizard Website</a>  |-|    🐙 <a href="https://github.com/WizardBrew" target="_blank">GitHub</a> |-|   ✉️ wizardbrew@outlook.com
