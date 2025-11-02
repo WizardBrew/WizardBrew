@@ -150,7 +150,7 @@
 
 - 📊 Monitoring with [Splunk](https://www.splunk.com/) and [Grafana](https://grafana.com/)
   ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat-square)
-  ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
+  ![Grafana & Prothomeous](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 
 
 ### 🌐 Nginx Proxy Manager Deployment
