@@ -52,9 +52,10 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
 
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azuredevops&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![YAML](https://img.shields.io/badge/-YAML-C9C9C9?logo=yaml&logoColor=black&style=for-the-badge)
+
 
 ---
 
