@@ -52,30 +52,13 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white&style=for-the-badge)
 
-# Azure / Azure DevOps
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
-![Azure DevOps (fallback)](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge)
-
-# GitHub
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![GitHub (fallback)](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge)
-
-# Ansible
 ![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=for-the-badge)
-![Ansible (fallback)](https://img.shields.io/badge/-Ansible-000000?style=for-the-badge)
-
-# YAML
 ![YAML](https://img.shields.io/badge/-YAML-C9C9C9?logo=yaml&logoColor=black&style=for-the-badge)
-![YAML (fallback)](https://img.shields.io/badge/-YAML-C9C9C9?style=for-the-badge)
-
-# Markdown
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
-![Markdown (fallback)](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge)
-
-# Raspberry Pi
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white&style=for-the-badge)
-![Raspberry Pi (fallback)](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge)
-
 
 ---
 
