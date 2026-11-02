@@ -340,7 +340,7 @@
 
 ## 📫 Connect with Me
 
-- 🌐 [wizardcloud.io](https://wizardcloud.io)
+- 🌐 [wizardbrew@icloud.com](https://wizardbrew@icloud.com)
 - 🐙 [GitHub](https://github.com/WizardBrew)
 - ✉️ Email: wizardbrew@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/parvezmustak8004/)
